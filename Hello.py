@@ -1,13 +1,28 @@
-print("Hello World") 
+def ahsan():
+    # code to be executed when method is called
+    print("Ahsan")
 
-print("Mr wong")
 
-print("jakldjfklsdj")
+def bar(x, y):
+    sum = x + y
+    print(sum)
+    return x + y
 
-print("ajdklfjsdfk")
+# Beginning     
+print("Welcome program")
 
-print("josh")
+ahsan()
 
-print("is")
+print("Ahsan is a sussy fortnite gamer, and he be bad")
 
-print("bad")
+print('''
+
+fkl;akdf
+adfkl;skdfa
+adkfs;lkfa
+alkdflk;
+
+
+''')
+
+print(bar(7, 3))
