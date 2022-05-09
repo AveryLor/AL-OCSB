@@ -1,4 +1,4 @@
-nimals = ["Bird", "Fox", "Cat", "Rat", "Alligator"]
+animals = ["Bird", "Fox", "Cat", "Rat", "Alligator"]
 
 
 animals.append("Giraffe")
