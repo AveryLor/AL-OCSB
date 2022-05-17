@@ -1,8 +1,5 @@
+lst = [1,2,3]
 
-S = input()
-
-for i in S:
-   if i == '':
-      list.remove(i)
-
-print(S)
+for i in lst:
+   n = int(input())
+   
