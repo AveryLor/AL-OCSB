@@ -1,5 +1,6 @@
-lst = [1,2,3]
+addingAsterix = "*"
 
-for i in lst:
-   n = int(input())
-   
+for i in range(1):
+    addingAsterix *= 80
+    for i in range(25):
+        print(addingAsterix)
