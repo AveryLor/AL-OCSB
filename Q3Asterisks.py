@@ -19,3 +19,4 @@ for i in range(25): # Running itA 25 times for all the columns
 # OUTPUT
         for i in range(1):
                 print(addingAsteriks) #Printing 1 row
+           #jfdklsdjklf
